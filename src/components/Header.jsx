@@ -4,7 +4,7 @@ export default function Header() {
 		<div className="header-wrapper">
 			<div className="hedare-block">
 				<div className="header-title">
-					<h1>Հեսա դու խփնվելու ես </h1><img className="smile" src={smile} alt="" />
+					<h1>Focus </h1><img className="smile" src={smile} alt="" />
 				</div>
 				<div className="instruction">
 					<ul className="instruction-list">
